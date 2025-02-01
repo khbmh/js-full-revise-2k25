@@ -3,6 +3,17 @@
 --
 044. JS Array Traversing
 --
-https://www.youtube.com/watch?v=QK9j4818rdQ&list=PL_XxuZqN0xVAu_dWUVFbscqZdTzE8t6Z1&index=45
+https://youtu.be/QK9j4818rdQ?feature=shared
 --
 */
+let arr = [2, 3, 4, 5, 8, 9, 10, 11];
+let sum = 0;
+for (let i = 0; i < arr.length; i++) {
+  // console.log(arr[i]);
+  // sum += arr[i]
+  if (arr[i] % 2 !== 0) {
+    sum += arr[i];
+  }
+}
+console.log(sum);
+// console.log(arr);
