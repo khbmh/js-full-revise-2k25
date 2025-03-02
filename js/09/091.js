@@ -3,6 +3,14 @@
 --
 091. Scope in Javascript
 --
-https://www.youtube.com/watch?v=HMeC7DT-Cmk&list=PL_XxuZqN0xVAu_dWUVFbscqZdTzE8t6Z1&index=92
+https://youtu.be/HMeC7DT-Cmk?feature=shared
 --
 */
+
+{
+  let a = 'hello'
+  var b = 'world'
+}
+
+console.log(b); // world
+// console.log(a); //error
