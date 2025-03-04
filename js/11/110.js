@@ -1,8 +1,9 @@
 /*
 --
 --
-kk
+110. Constructor Pattern in Javascript
 --
-lk
+https://youtu.be/DB-dN4TtYD0?feature=shared
 --
 */
+
